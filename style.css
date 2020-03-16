@@ -1,0 +1,17 @@
+.text1 {
+  padding-top: 20px;
+  font-size: 40px;
+}
+.text2 {
+  padding-top: 20px;
+  font-size: 25px;
+}
+#bras {
+  height: 75px;
+  width: 180px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+#unemat {
+  color: black;
+}
